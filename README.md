@@ -1,4 +1,5 @@
-# Angela Ruiz
+# Hi there! 👋 I'm Angela Ruiz Rivas
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanpidev%2Fanpidev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -8,7 +9,6 @@
 
 [![Github](https://img.shields.io/github/followers/anpidev?label=Follow&style=social)](https://github.com/anpidev)
 
-Hi there! 👋 I'm Angela Ruiz Rivas
 
 A developer passionate about technology and programming, always eager to learn new things and share my projects on GitHub. I'm currently studying Web Application Development (2nd year) at EuroformacFP.
 
