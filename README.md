@@ -41,6 +41,7 @@ A developer passionate about technology and programming, always eager to learn n
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visualstudio&logoColor=white) 
 ![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-05122A?style=for-the-badge&logo=azuredataexplorer&logoColor=white) 
+![DBeaver](https://img.shields.io/badge/-DBeaver-05122A?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=for-the-badge&logo=xampp&logoColor=white) 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=for-the-badge&logo=eclipseide&logoColor=white) 
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=for-the-badge&logo=apache&logoColor=white) 
