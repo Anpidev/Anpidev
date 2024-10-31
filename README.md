@@ -1,4 +1,4 @@
-# **👋 Hello! I'm Angela
+# 👋 Hello! I'm Angela
 
 # 💫 About Me:
 - 💻 Using Archcraft as my primary OS.<br>
