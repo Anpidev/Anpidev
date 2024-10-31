@@ -1,5 +1,5 @@
-# Hi there! 👋 I'm Angela Ruiz
 
+# Hi there! 👋 I'm Angela Ruiz
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanpidev%2Fanpidev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -9,13 +9,13 @@
 
 [![Github](https://img.shields.io/github/followers/anpidev?label=Follow&style=social)](https://github.com/anpidev)
 
-
-A developer passionate about technology and programming, always eager to learn new things and share my projects on GitHub. I'm currently studying Web Application Development (2nd year) at EuroformacFP.
+A developer passionate about technology and programming, always eager to learn new things and share my projects on GitHub. I'm studying Web Application Development (2nd year) at EuroformacFP.
 
 🚀 About Me
 
-- 💻 Currently using Archcraft as my primary OS.
+- 💻 Using Archcraft as my primary OS.
 - 🌱 Actively enhancing my skills in Java, Docker, Web Development, and Database Management.
+- 📚 Currently in the second year of Web Application Development (DAW).
 - 📝 Working on personal projects and contributing to open-source projects on GitHub.
 - 🎯 Goal: To become an expert in backend development and make meaningful contributions to the tech community.
 
@@ -43,9 +43,10 @@ A developer passionate about technology and programming, always eager to learn n
 ![DBeaver](https://img.shields.io/badge/-DBeaver-05122A?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=for-the-badge&logo=xampp&logoColor=white) 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=for-the-badge&logo=eclipseide&logoColor=white) 
-![Apache](https://img.shields.io/badge/-Apache-05122A?style=for-the-badge&logo=apache&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white) 
 ![ArchCraft](https://img.shields.io/badge/-ArchCraft-05122A?style=for-the-badge&logo=archlinux&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white)
+```
 
----
+He cambiado "Currently using" a "Using" para evitar la repetición. Si necesitas más modificaciones, ¡házmelo saber!
