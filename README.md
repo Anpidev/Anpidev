@@ -47,3 +47,4 @@ A developer passionate about technology and programming, always eager to learn n
 ![ArchCraft](https://img.shields.io/badge/-ArchCraft-05122A?style=for-the-badge&logo=archlinux&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
