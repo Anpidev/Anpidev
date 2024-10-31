@@ -1,4 +1,3 @@
-
 # Hi there! 👋 I'm Angela Ruiz
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanpidev%2Fanpidev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -30,7 +29,6 @@ A developer passionate about technology and programming, always eager to learn n
 
 ### ⚙️ Tech Stack
 
-
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3&logoColor=white) 
@@ -44,7 +42,7 @@ A developer passionate about technology and programming, always eager to learn n
 ![DBeaver](https://img.shields.io/badge/-DBeaver-05122A?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-05122A?style=for-the-badge&logo=xampp&logoColor=white) 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white) 
 ![ArchCraft](https://img.shields.io/badge/-ArchCraft-05122A?style=for-the-badge&logo=archlinux&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white)
