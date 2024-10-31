@@ -30,6 +30,7 @@ A developer passionate about technology and programming, always eager to learn n
 
 ### ⚙️ Tech Stack
 
+
 ![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white) 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3&logoColor=white) 
@@ -47,3 +48,4 @@ A developer passionate about technology and programming, always eager to learn n
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white) 
 ![ArchCraft](https://img.shields.io/badge/-ArchCraft-05122A?style=for-the-badge&logo=archlinux&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white)
+
