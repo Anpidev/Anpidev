@@ -47,6 +47,3 @@ A developer passionate about technology and programming, always eager to learn n
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white) 
 ![ArchCraft](https://img.shields.io/badge/-ArchCraft-05122A?style=for-the-badge&logo=archlinux&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white)
-```
-
-He cambiado "Currently using" a "Using" para evitar la repetición. Si necesitas más modificaciones, ¡házmelo saber!
