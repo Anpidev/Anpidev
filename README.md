@@ -32,7 +32,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-4B7BE5.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white) 
+![NetBeans](https://img.shields.io/badge/NetBeans-009B77.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anpidev&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
