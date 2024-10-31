@@ -29,16 +29,16 @@ A developer passionate about technology and programming, always eager to learn n
 
 ### ⚙️ Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Java](https://simpleicons.org/icons/java.svg) 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudio&logoColor=white) 
-![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-008AD7?style=for-the-badge&logo=azuredataexplorer&logoColor=white) 
+![SQL Server](https://simpleicons.org/icons/microsoftsqlserver.svg) 
+![Visual Studio Code](https://simpleicons.org/icons/visualstudio.svg) 
+![Azure Data Studio](https://simpleicons.org/icons/azuredataexplorer.svg) 
 ![DBeaver](https://img.shields.io/badge/-DBeaver-05122A?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-6A4B8A?style=for-the-badge&logo=xampp&logoColor=white) 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white) 
