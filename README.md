@@ -1,49 +1,52 @@
-# Hi there! 👋 I'm Angela Ruiz
+# **👋 Hello! I'm Angela, a developer passionate about technology and programming, always eager to learn new things and share my projects on GitHub.**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanpidev%2Fanpidev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angela2r/)
+# 💫 About Me:
+- 💻 Using Archcraft as my primary OS.<br>
+- 🌱 Actively enhancing my skills in Java, Docker, Web Development, and Database Management.<br>
+- 📚 Currently in the second year of Web Application Development (DAW).<br>
+- 📝 Working on personal projects and contributing to open-source projects on GitHub.<br>
+- 🎯 Goal: To become an expert in backend development and make meaningful contributions to the tech community.<br>
+- 👩‍💻 A developer passionate about technology and programming, always eager to learn new things and share my projects on GitHub. I'm studying Web Application Development (2nd year) at EuroformacFP.
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:angelaruizdev@gmail.com)
-
-[![Github](https://img.shields.io/github/followers/anpidev?label=Follow&style=social)](https://github.com/anpidev)
-
-A developer passionate about technology and programming, always eager to learn new things and share my projects on GitHub. I'm studying Web Application Development (2nd year) at EuroformacFP.
-
-🚀 About Me
-
-- 💻 Using Archcraft as my primary OS.
-- 🌱 Actively enhancing my skills in Java, Docker, Web Development, and Database Management.
-- 📚 Currently in the second year of Web Application Development (DAW).
-- 📝 Working on personal projects and contributing to open-source projects on GitHub.
-- 🎯 Goal: To become an expert in backend development and make meaningful contributions to the tech community.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angela2r)
 
 ### 🖥 Skills
+- **Problem Solving** - Analytical approach to troubleshooting and resolving complex issues.
+- **Collaboration** - Experience working in team environments and using Git for version control.
+- **Time Management** - Ability to prioritize tasks and meet deadlines effectively.
+- **Quick Learner** - Eager to learn and adapt to new technologies and development environments.
+- **Attention to Detail** - Writing clean, well-documented code with a focus on quality and maintainability.
+- **Communication** - Skilled in documenting and explaining technical concepts clearly to team members.
 
-- Problem Solving - Analytical approach to troubleshooting and resolving complex issues.
-- Collaboration - Experience working in team environments and using Git for version control.
-- Time Management - Ability to prioritize tasks and meet deadlines effectively.
-- Quick Learner - Eager to learn and adapt to new technologies and development environments.
-- Attention to Detail - Writing clean, well-documented code with a focus on quality and maintainability.
-- Communication - Skilled in documenting and explaining technical concepts clearly to team members.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Azure Data Studio](https://img.shields.io/badge/Azure%20Data%20Studio-4B7BE5.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### ⚙️ Tech Stack
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anpidev&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anpidev&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anpidev&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<a href="https://www.java.com" target="_blank"><img src="https://iconfinder.com/icons/2696823/java_jdk_programming_icon" alt="Java" width="24" height="24" /></a>
-<a href="https://www.w3.org/TR/html52/" target="_blank"><img src="https://iconfinder.com/icons/2051088/html5_icon" alt="HTML" width="24" height="24" /></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://iconfinder.com/icons/2051085/css3_icon" alt="CSS" width="24" height="24" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://iconfinder.com/icons/2051084/javascript_icon" alt="JavaScript" width="24" height="24" /></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://iconfinder.com/icons/2696832/docker_container_docker_hub_icon" alt="Docker" width="24" height="24" /></a>
-<a href="https://mariadb.org/" target="_blank"><img src="https://iconfinder.com/icons/1289523/mariadb_icon" alt="MariaDB" width="24" height="24" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://iconfinder.com/icons/428344/mysql_database_icon" alt="MySQL" width="24" height="24" /></a>
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019" target="_blank"><img src="https://iconfinder.com/icons/1397289/sql_server_database_icon" alt="SQL Server" width="24" height="24" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://iconfinder.com/icons/2066798/visual_studio_code_icon" alt="Visual Studio Code" width="24" height="24" /></a>
-<a href="https://docs.microsoft.com/en-us/sql/azure-data-studio/" target="_blank"><img src="https://iconfinder.com/icons/2661926/azure_data_studio_icon" alt="Azure Data Studio" width="24" height="24" /></a>
-<a href="https://dbeaver.io/" target="_blank"><img src="https://iconfinder.com/icons/2988354/dbeaver_icon" alt="DBeaver" width="24" height="24" /></a>
-<a href="https://www.apachefriends.org/index.html" target="_blank"><img src="https://iconfinder.com/icons/1080520/xampp_icon" alt="XAMPP" width="24" height="24" /></a>
-<a href="https://www.eclipse.org/" target="_blank"><img src="https://iconfinder.com/icons/336809/eclipse_ide_java_icon" alt="Eclipse" width="24" height="24" /></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://iconfinder.com/icons/2696850/nodejs_node_icon" alt="Node.js" width="24" height="24" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://iconfinder.com/icons/105839/linux_icon" alt="Linux" width="24" height="24" /></a>
-<a href="https://archcraft.io/" target="_blank"><img src="https://iconfinder.com/icons/4401748/arch_linux_icon" alt="ArchCraft" width="24" height="24" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://iconfinder.com/icons/1821474/git_icon" alt="Git" width="24" height="24" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anpidev&theme=nightowl&no-frame=true&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anpidev&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=anpidev&icon=2&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
