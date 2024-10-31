@@ -1,5 +1,4 @@
-# **👋 Hello! I'm Angela, a developer passionate about technology and programming, always eager to learn new things and share my projects on GitHub.**
-
+# **👋 Hello! I'm Angela
 
 # 💫 About Me:
 - 💻 Using Archcraft as my primary OS.<br>
